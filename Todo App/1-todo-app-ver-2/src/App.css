@@ -1,0 +1,20 @@
+input {
+  width: 100%;
+}
+
+.todo-row {
+  margin: 10px 5px;
+}
+
+.todo-container {
+  margin: 30px;
+}
+
+.btn {
+  min-width: 80px;
+  text-align: left;
+}
+
+.btnAdd {
+  text-align: left;
+}
